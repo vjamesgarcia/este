@@ -1,13 +1,12 @@
-<img
-  alt="Este.js"
-  src="https://cloud.githubusercontent.com/assets/66249/6515278/de638916-c388-11e4-8754-184f5b11e770.jpeg"
-  width="200"
-/>
+# js-app
 
-[![Circle CI](https://img.shields.io/circleci/project/este/este/master.svg)](https://circleci.com/gh/este/este)
-[![Join the chat at https://gitter.im/este/este](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/este/este)
-[![Dependency Status](https://david-dm.org/este/este.svg)](https://david-dm.org/este/este)
-[![GitHub license](https://img.shields.io/github/license/este/este.svg)](https://github.com/este/este/blob/master/LICENSE)
+```shell
+git clone
+cd js-app
+yarn (or npm install)
+```
+
+# Original README
 
 > Starter kit for universal full–fledged React apps. One stack for browser, mobile, server.
 

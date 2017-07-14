@@ -1,7 +1,6 @@
 {
-  "name": "este",
+  "name": "js-app",
   "private": true,
-  "//": "github.com/este/este#dev-tasks",
   "scripts": {
     "build": "gulp build --production",
     "flow": "flow",
